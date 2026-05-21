@@ -1,1 +1,9 @@
-!TDOA_Revision.py
+# Jupyter Notebook files
+*.ipynb
+
+# Python cache folders
+__pycache__/
+*/__pycache__/
+
+# Specific Python file
+TDOA_Revision.py
